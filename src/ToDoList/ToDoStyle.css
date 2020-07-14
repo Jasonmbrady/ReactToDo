@@ -1,0 +1,10 @@
+.listitem {
+    width: 200px;
+}
+
+
+.completeItem h1 {
+    display: inline-block;
+    text-decoration: line-through;
+    margin: 5px;
+}
